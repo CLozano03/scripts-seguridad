@@ -1,0 +1,5 @@
+/home/cesar/Documentos/seguridad/ejercicios/integridad/hmac/clave_secreta.bin
+/home/cesar/Documentos/seguridad/ejercicios/integridad/hmac/auditor_validar.sh
+/home/cesar/Documentos/seguridad/ejercicios/integridad/hmac/auditor_nombres.txt
+/home/cesar/Documentos/seguridad/ejercicios/integridad/hmac/auditor_objetos.txt
+/home/cesar/Documentos/seguridad/ejercicios/integridad/hmac/auditor_registrar.sh
